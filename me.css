@@ -1,0 +1,52 @@
+.main{
+    width: 400px;
+    height: 800px;
+    margin: auto;
+    padding: 70px;
+    text-align: center;
+    font-weight: bold;
+}
+#wwe{
+   background-image: url(google.png);
+   background-size: 17px;
+    background-repeat: no-repeat;
+   padding-left: 90px;
+   background-position: 60px;
+   font-size: 22px;
+   border-radius: 7px;
+   
+}
+.op , .live ,.raw{
+    border: 2px solid black;
+}
+.op::placeholder{
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.781);
+    padding-left: 10px;
+}
+.raw{
+    margin: 10px;
+    font-size: 22px;
+    border-radius: 7px;
+    width: 16em;
+    padding-left: 10px;
+
+}
+.live{
+    margin: 10px;
+    font-size: 22px;
+    border-radius: 7px;
+    width: 16em;
+    padding-left: 10px;
+}
+button{
+    font-size: 22px;
+    border-radius: 7px;
+    width: 16.7em;
+    margin-top: 35px;
+background-color: black;
+color: white;
+}
+h4{
+    color: purple;
+}
